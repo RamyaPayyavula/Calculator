@@ -49,7 +49,6 @@ function processTempString(){
         result = tempstring;
     }
     else if(symbols.length===1){
-        console.log('coming 1')
 
         symbolIndex = symbols[0];
         symbol = tempstring[symbolIndex];
